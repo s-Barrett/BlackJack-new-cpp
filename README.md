@@ -1,6 +1,9 @@
 # Blackjack-Terminal
 This is a terminal-based Blackjack, the game follows the standard Blackjack rules, where the player competes against the dealer to get a hand value closest to 21 without exceeding it.
 
+## Project Status
+- Status: **Completed ✅**
+
 ## Features
 
 - **Player vs Dealer**: The player competes against the dealer in each round of Blackjack.
